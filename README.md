@@ -4,11 +4,11 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="assets/logo.png" width="280" alt="HEX ESMERAL logo" />
+  <img src="assets/logo.png" width="280" alt="hedaesgo logo" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:00ff88&height=190&section=header&text=HEX%20ESMERAL&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:00ff88&height=190&section=header&text=hedaesgo&fontSize=52&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ---
 
 ## 👋 Sobre mí
-Soy **Héctor Esmeral** (alias: **HEX ESMERAL**) y estoy en un proceso de aprendizaje constante.  
+Soy **Héctor Esmeral** (alias: **hedaesgo**) y estoy en un proceso de aprendizaje constante.  
 Mi base más fuerte es **Python**, y mi mayor pasión es construir tecnología entre el mundo físico y el inteligente:
 
 - ⚙️ **Sistemas embebidos** (firmware, sensores, comunicación, IoT)
@@ -59,20 +59,10 @@ Mi base más fuerte es **Python**, y mi mayor pasión es construir tecnología e
 
 ---
 
-## 📌 Proyectos destacados (ideas para fijar en tu perfil)
-- ⚙️ **embedded-sensors-lab** → sensores + UART/I2C/SPI + documentación clara
-- 🤖 **ml-foundations** → notebooks limpios: métricas, validación, modelos clásicos
-- 🧠 **tinyml-edge-ai** → inferencia “ligera” para microcontroladores (demo)
-- 🌐 **django-api-starter** → API REST con auth + DB + buenas prácticas
-
-*(Cuando los tengas, pínnealos en tu perfil para que se vea potente.)*
-
----
-
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hedaesgo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaesgo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedaesgo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hedaesgo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -91,7 +81,6 @@ Mi base más fuerte es **Python**, y mi mayor pasión es construir tecnología e
 ## 🧠 Filosofía
 > “Construyo desde el hardware (embebidos) hasta la inteligencia (ML), y mejoro todos los días.”
 
-<!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hedaesgo&style=for-the-badge&color=00e5ff" />
 </p>
