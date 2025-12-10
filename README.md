@@ -46,8 +46,8 @@ Mi base más fuerte es **Python**, y mi mayor pasión es construir tecnología e
 ---
 
 ## 🎯 En qué me enfoco ahora
-- 🔥 Proyectos de **sistemas embebidos**: lectura de sensores, protocolos (UART/I2C/SPI), integración HW/SW
-- 🧠 **Machine Learning**: fundamentos sólidos + proyectos aplicados
+- 🔥 **Embebidos**: sensores, protocolos (UART / I2C / SPI), integración HW/SW
+- 🧠 **Machine Learning**: fundamentos, métricas y proyectos aplicados
 - 🌐 **Django**: APIs, autenticación, bases de datos y despliegue
 
 ---
@@ -59,22 +59,12 @@ Mi base más fuerte es **Python**, y mi mayor pasión es construir tecnología e
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedaesgo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hedaesgo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=hedaesgo&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trofeos
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hedaesgo&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+## 📌 Repos recomendados para fijar (Pinned)
+Te recomiendo fijar repos con estos nombres/enfoques (cuando los tengas listos):
+- ⚙️ **embedded-sensors-lab** → sensores + comunicación + documentación
+- 🧠 **tinyml-edge-ai** → ML ligero / Edge AI (demo práctico)
+- 🤖 **ml-foundations** → notebooks claros con evaluación y métricas
+- 🌐 **django-api-starter** → API backend con buenas prácticas
 
 ---
 
